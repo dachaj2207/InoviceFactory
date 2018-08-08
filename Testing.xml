@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestSuiteIvnoice">
+    <test name="TestingInvoice">
+        <classes>
+            <class name="Tests.LoginPagetTest" />
+            <class name="Tests.InvoicesPageTest" />            
+                    
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,4 @@
+Loguje se sa caps lock on. Nije bug, ali mislim da bi trebao bar neko upozorenje o ujljucenom caps lock-u.
+Ne postoji forget password link.
+U IvnocesList strani dozvoljava da uneses "To" stariji datum od "from".
+
